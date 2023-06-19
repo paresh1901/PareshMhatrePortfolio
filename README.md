@@ -27,7 +27,7 @@
 ✔️ Education\
 ✔️ Contact me
 
-To view a live example, **[click here](https://paresh1901.github.io/pareshportfolio/)**
+To view a live example, **[click here](https://paresh1901.github.io/PareshMhatrePortfolio/)**
 
 # Clone and Use 📋
 
