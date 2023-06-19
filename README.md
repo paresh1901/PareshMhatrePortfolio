@@ -9,8 +9,8 @@
 <p align="center">If you want to discuss about something, you can ask on my <a href="https://discord.gg/DvQzYS4R">Discord Server</a>.</p>
 
 <p align="center"> 
-    <a href="https://paresh1901.github.io/pareshportfolio/" target="_blank">
-    <img src= "images/masterPortfolioThemes.png"></img>
+    <a href="https://paresh1901.github.io/PareshMhatrePortfolio/" target="_blank">
+    <img src= "images/portfolio.png"></img>
   </a>
 </p>
 
